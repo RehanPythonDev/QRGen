@@ -49,4 +49,4 @@ A simple and user-friendly QR code generator with a graphical interface built us
    - Click "Generate QR Code" to preview
    - Click "Save QR Code" to save the file
 
-## Project Structure 
+
